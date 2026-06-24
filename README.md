@@ -1,4 +1,4 @@
 # papa-igna
 primer repo del curso
-##Descripcion
+## Descripcion
 este es un repo para el curso de git de soydalto
